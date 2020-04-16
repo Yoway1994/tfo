@@ -1,7 +1,6 @@
 README.md
 setup.py
-src/__init__.py
-src/main.py
+tfo/__init__.py
 tfo.egg-info/PKG-INFO
 tfo.egg-info/SOURCES.txt
 tfo.egg-info/dependency_links.txt

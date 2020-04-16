@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tfo",
-    version="0.0.1",
+    version="0.0.2",
     author="Yoway Hsu",
     packages=setuptools.find_packages(),
     classifiers=[
@@ -13,5 +13,4 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
 )
